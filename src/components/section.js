@@ -37,7 +37,7 @@ export default function BootcampSection() {
       title: "Graphic Designer",
       batch: "BATCH 3",
       date: "Januari 2025",
-      image: "/images/card.jpeg",
+      image: "/assets/card.jpeg",
     },
   ];
 
